@@ -1,4 +1,4 @@
-package com.example.quizapp;
+package com.example.quizapp.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
